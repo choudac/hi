@@ -1,13 +1,21 @@
-.main-header {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  margin-bottom: 30px;
-  font-size: 24px;
-  text-align: left;
-  background-color: #6f5499;
+.jumbotron {
+  background-image:url('http://downhdlogo.yy.com/hdlogo/640640/400/400/76/1262761506/u1262761506MymWwaO.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 110px;
 }
 
-.main-header h1 {
-  margin-top: 0;
-  color: #fff;
+.title {
+  font-family: "Helvetica Neue", "Microsoft Yahei", 微软雅黑;
+  text-align: right;
+  margin-top: 500px;
+  margin-bottom: 80px;
+}
+
+.slogan {
+  margin-top: 10px;
+  margin-bottom: 50px;
+  text-align: right;
+  color: #0909f6;
+  top: 12px;
 }
